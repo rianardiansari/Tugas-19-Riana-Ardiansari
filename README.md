@@ -25,4 +25,4 @@ To run the Project :
 3. Create folder stepDef which contains function Loginstep, Hooks, and HomeStep
 4. Create folder pages which contains function LoginPage and Homepage 
 5. Create Utility function in helper folder
-7. Create testRunnerWeb function in runner folder to run the testing
+6. Create testRunnerWeb function in runner folder to run the testing
