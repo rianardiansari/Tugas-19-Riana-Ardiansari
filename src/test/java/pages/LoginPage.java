@@ -17,9 +17,7 @@ public class LoginPage {
         driver.get("https://opensource-demo.orangehrmlive.com/");
     }
 
-    public void inputUsername(String username) {
-        driver.findElement(input_username).sendKeys(username);
-    }
+    public void inputUsername(String username) {driver.findElement(input_username).sendKeys(username);}
 
     public void inputPwd(String pwd) {
         driver.findElement(input_pwd).sendKeys(pwd);

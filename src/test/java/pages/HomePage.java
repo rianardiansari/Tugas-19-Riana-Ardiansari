@@ -2,8 +2,8 @@ package pages;
 
 import org.openqa.selenium.By;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
 import static helper.Utility.driver;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class HomePage {
 
